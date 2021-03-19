@@ -59,7 +59,8 @@ function loadAJAX(cat)
     
 function toConsole(data)
 {//return data to console for JSON examination
-	console.log(data); //to view,use Chrome console, ctrl + shift + j
+	//console.log(data); //to view,use Chrome console, ctrl + shift + j
+	$("#output").text(JSON.stringify(data));
 }
 
 function bondJSON(data){
