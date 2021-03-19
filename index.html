@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>Bond Web Service Demo</title>
+		<link rel="stylesheet" href="css/bond.css" />
 		<style>
 			body {font-family:georgia;}
 		</style>
@@ -71,16 +72,11 @@
 				$.each(data.films, function(i, item){
 					let text = `
 					<div>
-						<b>Title</b>: ${item.Title}
-						<br/>
-						<b>Film Number</b>: ${item.Film}
-						<br/>
-						<b>Year</b>: ${item.Year}
-						<br/>
-						<b>Bond</b>: ${item.Bond}
-						<br/>
-						<b>Box Office</b>: ${item.BoxOffice}
-						<br/>
+						<b>Title</b>: ${item.Title}<br/>
+						<b>Film Number</b>: ${item.Film}<br/>
+						<b>Year</b>: ${item.Year}<br/>
+						<b>Bond</b>: ${item.Bond}<br/>
+						<b>Box Office</b>: ${item.BoxOffice}<br/>
 						<b>Writers</b>: ${item.Writers}
 						<div class = "pic"><img src="thumbnails/${item.Image}"/></div>
 					</div>`;
@@ -97,6 +93,7 @@
 		<a href="box" class="category">Bond Films By International Box Office Totals</a>
 		<h3 id="filmtitle">Title Will Go Here</h3>
 		<div id="films">
+		</div>
 			Results go here
 		</div>
 	</body>
