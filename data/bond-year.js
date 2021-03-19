@@ -8,7 +8,7 @@
 				"Writers":"Winger",
 				"Bond":"Juventus",
 				"BoxOffice":"400k",
-				"Image":"dr-no.jpg"
+				"Image":"cr.jpg"
 			  },
 			  {
 				"Film":2,
@@ -17,7 +17,7 @@
 				"Writers":"Striker",
 				"Bond":"Barcelona",
 				"BoxOffice":"420k",
-				"Image":"dr-no.jpg"
+				"Image":"mes.jpg"
 			  },{
 				"Film":3,
 				"Title":"K.Mbappe",
@@ -25,7 +25,7 @@
 				"Writers":"Striker",
 				"Bond":"PSG",
 				"BoxOffice":"300k",
-				"Image":"dr-no.jpg"
+				"Image":"km.jpg"
 			  },{
 				"Film":4,
 				"Title":"M.Salaha",
@@ -33,7 +33,7 @@
 				"Writers":"Winger",
 				"Bond":"Liverpool",
 				"BoxOffice":"290k",
-				"Image":"dr-no.jpg"
+				"Image":"sala.jpg"
 			  },{
 				"Film":5,
 				"Title":"M.Verratti",
@@ -41,7 +41,7 @@
 				"Writers":"Midfilder",
 				"Bond":"PSG",
 				"BoxOffice":"300k",
-				"Image":"dr-no.jpg"
+				"Image":"ver.jpg"
 			  },{
 				"Film":6,
 				"Title":"Paul Pogba",
@@ -49,7 +49,7 @@
 				"Writers":"Defender",
 				"Bond":"Mancester Utd",
 				"BoxOffice":"340k",
-				"Image":"dr-no.jpg"
+				"Image":"pog.jpg"
 			  }
 			]
 }
