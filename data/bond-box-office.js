@@ -18,7 +18,7 @@
 			"Writers":"Midfilder",
 			"Bond":"Napoli",
 			"BoxOffice":"120k",
-			"Image":"mar.jpg"
+			"Image":"mar.png"
 		  },{
 			"Film":3,
 			"Title":"Zola",

@@ -25,7 +25,7 @@
 				"Writers":"Striker",
 				"Bond":"PSG",
 				"BoxOffice":"300k",
-				"Image":"km.jpg"
+				"Image":"km.png"
 			  },{
 				"Film":4,
 				"Title":"M.Salaha",
@@ -41,7 +41,7 @@
 				"Writers":"Midfilder",
 				"Bond":"PSG",
 				"BoxOffice":"300k",
-				"Image":"ver.jpg"
+				"Image":"ver.png"
 			  },{
 				"Film":6,
 				"Title":"Paul Pogba",
